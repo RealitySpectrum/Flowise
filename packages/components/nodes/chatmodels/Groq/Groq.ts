@@ -19,7 +19,7 @@ class Groq_ChatModels implements INode {
     constructor() {
         this.label = 'GroqChat'
         this.name = 'groqChat'
-        this.version = 4.0
+        this.version = 4.1
         this.type = 'GroqChat'
         this.icon = 'groq.png'
         this.category = 'Chat Models'
